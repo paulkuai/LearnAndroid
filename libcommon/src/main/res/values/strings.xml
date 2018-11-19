@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LibCommon</string>
+    <string name="title_activity_mvp_demo">MvpDemo</string>
+</resources>
